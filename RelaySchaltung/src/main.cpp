@@ -26,8 +26,8 @@ IPAddress subnet(255, 255, 225, 0);
 int relayGPIOs[NUM_RELAYS] = {4};
 
 // Replace with your network credentials
-const char* ssid = "WeiFerL";
-const char* password = "IsMirBums!85";
+const char* ssid = "WIFI_SSID";
+const char* password = "PASS";
 
 const char* PARAM_INPUT_1 = "relay";  
 const char* PARAM_INPUT_2 = "state";

@@ -22,8 +22,8 @@ See more at http://blog.squix.ch
 
 // Setup
 
-#define WIFI_SSID "WeiFerL"
-#define WIFI_PASS "IsMirBums!85"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PASS "PASS"
 #define WIFI_HOSTNAME "Wetter-Station"
 
 

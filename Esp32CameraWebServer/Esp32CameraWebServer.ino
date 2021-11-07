@@ -5,8 +5,8 @@
 
 #include "camera_pins.h"
 
-#define ssid "WeiFerL"
-#define password "IsMirBums!85"
+#define ssid "WIFI_SSID"
+#define password "PASS"
 
 void startCameraServer();
 

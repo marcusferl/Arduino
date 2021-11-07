@@ -11,9 +11,9 @@
 #include <ArduinoOTA.h>
 
 // ----- BEGIN WLAN-Netzwerk Einstellungen ----------------------------------
-const char*   PRG_NAME_ID = "Led-Matrix";
-const char*   ssid     = "WeiFerL";                        // SSID des vorhandenen WLANs
-const char*   password = "IsMirBums!85";                        // Passwort für das vorhandene WLAN
+const char*   PRG_NAME_ID = "";
+const char*   ssid     = "WIFI_SSID";                        // SSID des vorhandenen WLANs
+const char*   password = "PASS";                        // Passwort für das vorhandene WLAN
 // ----- END   WLAN-Netzwerk Einstellungen ----------------------------------
 
 void setup() {

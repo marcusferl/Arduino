@@ -36,8 +36,8 @@ const byte chips = 4;               // Number of 8x8 modules linked together
 const int msglen = 500;             // Maximum length of the message
 
 // Set your wifi credetials here, for open wifi leave password empty
-const char* ssid = "WeiFerL";
-const char* password = "IsMirBums!85";
+const char* ssid = "WIFI_SSID";
+const char* password = "PASS";
 
 // You can comment this section out for using DHCP
 //IPAddress ip(192, 168, 1, 85); // where xx is the desired IP Address
