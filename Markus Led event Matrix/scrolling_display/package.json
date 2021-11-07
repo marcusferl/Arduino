@@ -1,0 +1,24 @@
+{
+  "name": "scrolling_display",
+  "description": "Send messages to a scrolling display via http get requests",
+  "author": "Markus weik <markus@weik.de>",
+  "homepage": "weik.de",
+  "bugs": "",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "scrolling",
+    "display",
+    "max7219"
+  ],
+  "repository": {},
+  "dependencies": { },
+  "scripts": {
+    "start": "node eventboard.js"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "devDependencies": {}
+}
+

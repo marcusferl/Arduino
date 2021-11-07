@@ -1,0 +1,70 @@
+{
+    "events": [
+        {
+            "type": "fixed",
+            "date": { "day": 17, "month": 1, "year": 1986 },
+            "name": "Marcus {{years}}. Verlobungstag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 10, "month": 2, "year": 1985 },
+            "name": "{{years}}. Verlobungstag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 21, "month": 2, "year": 1985 },
+            "name": "Susannes {{years}}. Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 26, "month": 3, "year": 1971 },
+            "name": "Christians Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 21, "month": 4, "year": 1999 },
+            "name": "Steffens {{years}}. Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 10, "month": 5, "year": 1989 },
+            "name": "{{years}}. standesamtlicher Hochzeitstagtag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 15, "month": 7, "year": 1989 },
+            "name": "{{years}}. kirchlichen Hochzeitstagtag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 18, "month": 9, "year": 1943 },
+            "name": "Erikas Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 20, "month": 9, "year": 1967 },
+            "name": "Michaelas Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 26, "month": 9, "year": 1966 },
+            "name": "Markus Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 8, "month": 11, "year": 1995 },
+            "name": "Viviennes {{years}}. Geburtstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        }
+    ]
+}

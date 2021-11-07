@@ -1,0 +1,6 @@
+{
+    "defaultHost": "192.168.0.19",
+    "developmentHost": "192.168.0.19",
+    "productionHost": "192.168.0.19",
+    "defaultMessage": ""
+}

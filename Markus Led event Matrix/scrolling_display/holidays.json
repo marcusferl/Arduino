@@ -1,0 +1,202 @@
+{
+    "holidays": [
+        {
+            "type": "fixed",
+            "date": { "day": 1, "month": 1, "year": 0 },
+            "name": "Neujahr",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 1, "month": 5, "year": 1946  },
+            "name": "Tag der Arbeit",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 3, "month": 10, "year": 1990 },
+            "name": "Tag der deutschen Einheit",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 31, "month": 10, "year": 1850 },
+            "name": "Halloween{1}",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 1, "month": 11, "year": 1833 },
+            "name": "Allerheiligen",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 11, "month": 11, "year": 1833 },
+            "name": "Fastnacht",
+            "message": "Nur noch {{hours}} Stunden bis die {{name}} beginnt!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 24, "month": 12, "year": 0 },
+            "name": "Heilig Abend",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 25, "month": 12, "year": 0 },
+            "name": "1. Weihhnachtstag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 26, "month": 12, "year": 0 },
+            "name": "2. Weihhnachtstag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "fixed",
+            "date": { "day": 31, "month": 12, "year": 0 },
+            "name": "Silvester",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": 0,
+            "name": "1. Advent",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+            
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": 7,
+            "name": "2. Advent",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+            
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": 14,
+            "name": "3. Advent",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+            
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": 21,
+            "name": "4. Advent",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+            
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": -14,
+            "name": "Volkstrauertag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+            
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": -11,
+            "name": "Buß- und Bettag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "advent",
+            "days": -7,
+            "name": "Totensonntag",
+            "message": "Nur noch {{hours}} Stunden bis zum {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -52,
+            "name": "Weiberfastnacht",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -48,
+            "name": "Rosenmontag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -47,
+            "name": "Fastnachtsdienstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -46,
+            "name": "Aschermittwoch",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -3,
+            "name": "Gründonnerstag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": -2,
+            "name": "Karfreitag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 0,
+            "name": "Ostersonntag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 1,
+            "name": "Ostermontag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 39,
+            "name": "Christi Himmelfahrt",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 49,
+            "name": "Pfingstsonntag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 50,
+            "name": "Pfingstmontag",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        },
+        {
+            "type": "dynamic",
+            "base": "easter",
+            "days": 60,
+            "name": "Fronleichnam",
+            "message": "Nur noch {{hours}} Stunden bis {{name}}!"
+        }
+    ]
+}

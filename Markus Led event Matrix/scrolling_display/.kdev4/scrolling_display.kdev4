@@ -1,0 +1,25 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=scriptAppLauncher
+Name=node for scrolling display
+Type=Script Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments='host=devboard' 'message=Was zum Fick?{1} Ist mir Bums!{2}'
+EnvironmentGroup=
+Executable=
+Execute on Remote Host=false
+Interpreter=/usr/bin/node
+Output Filtering Mode=2
+Remote Host=
+Run current file=true
+Working Directory=
+
+[Project]
+VersionControlSupport=
